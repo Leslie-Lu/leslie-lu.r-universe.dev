@@ -2,5 +2,9 @@
     {
         "package": "createAddins",
         "url": "https://github.com/Leslie-Lu/createAddins"
+    },
+    {
+        "package": "lulab.utils",
+        "url": "https://github.com/Leslie-Lu/lulab.utils"
     }
 ]
